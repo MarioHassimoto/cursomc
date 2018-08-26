@@ -1,0 +1,37 @@
+Criar repositório novo na pasta.
+abri a pasta que voce que criar.
+Comando: git init
+--> Initialized empty Git repository in C:/workspeceSTS/cursomc/.git/
+--> Reinitialized existing Git repository in C:/workspeceSTS/cursomc/.git/
+=============================================
+Comando: git config --global user.name "Mario"
+Nome que vai usar no Git.
+================================================
+Comando: git config --global user.email "mario@gmail.com"
+E-mail
+===============================================
+Comando: git status
+verificação de arquivo
+================================================
+Comando: git add .
+adicionar todos para comitar o arquivos.
+
+===============================================
+comando: git commit -m ""
+para comitar os arquivos.
+-m " " é mensagem.
+
+=================================================
+comando: git log
+Hístoria
+
+==================================================
+comando: git remote add origin https://github.com/MarioHassimoto/cursomc.git
+associar com projeto no site e para vincular
+
+=================================================
+comando: git push -u origin master
+para mandar o projeto no gitHub.
+nome: 
+senha:
+
